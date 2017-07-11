@@ -1,0 +1,44 @@
+{
+  "squadName" : "Justice League",
+  "Base" : "Watch Tower",
+  "formed" : 1960,
+  "location" : "Earth's Moon",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Bat Man",
+      "age" : 33,
+      "secretIdentity" : "Bruce Wayne",
+      "powers" : [
+        "Genius-level intellect",
+        "Skilled martial artist and hand-to-hand combatant"
+        "Peak human physical and mental condition",
+        "Expert detective",
+        "Utilizes High-tech weapons"
+      ]
+    },
+    {
+      "name" : "Super man",
+      "age" : 32,
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "Superhuman strength", "speed", "durability","longevity"
+"Flight"
+"Heat vision"
+"Freezing breath"
+Extrasensory powers, including X-ray vision
+      ]
+    },
+    {
+      "name" : "Wonder Woman",
+      "age" : 29,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Superhuman strength", "speed", "durability", "longevity"
+"Flight"
+"Skilled hand-to-hand combatant"
+"Utilizes Lasso of Truth", "indestructible bracelets", "boomerang tiara", "sword and shield"
+      ]
+    }
+  ]
+}
